@@ -20,7 +20,7 @@ jQuery(document).ready(function($){
 	    itemMargin: 1,
 	    minItems: 1,
 	    maxItems: 8,
-		controlNav: false,
+		controlNav: true,
 		directionNav: false,
 		move: 2
       });
